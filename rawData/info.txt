@@ -1,1 +1,0 @@
-Chosen raw data from the SQLite file.
